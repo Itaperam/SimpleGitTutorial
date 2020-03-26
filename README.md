@@ -2,5 +2,5 @@
 
 Este repositório serve para o curso de Git e Github
 
-![](/home/italo/SimpleGitTutorial/cook.jpg)
+![](/home/italo/SimpleGitTutorial/cook.png)
 
