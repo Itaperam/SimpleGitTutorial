@@ -1,5 +1,6 @@
-#Simple Git Tutorial
+# Simple Git Tutorial
 
 Este repositório serve para o curso de Git e Github
 
-![./cook.jpg](Let's Cook!)
+![./home/italo/SimpleGitTutorial/cook.jpg](Let's Cook!)
+
